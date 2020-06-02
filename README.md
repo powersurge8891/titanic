@@ -1,0 +1,1 @@
+This is project is all about analyzing the popular  titanic dataset. It was divided into four parts. Namely, the cleaning part, the analysis part, modelilng and classification. I have not don the classification part yet. 
